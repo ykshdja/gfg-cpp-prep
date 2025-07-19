@@ -1,0 +1,10 @@
+REVISION - 
+
+1. armstrong numbers
+2. Inverted Pyramid
+3. Print Inverted Pyramid
+4. Sieve of Eratosthenes 
+______________________________
+
+REVISIT - NOT DONE - 
+12. TO 19. IN cpp-prep-sheet

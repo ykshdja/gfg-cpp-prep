@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yashkhanduja/Documents/gfg-cpp-prep/.src/cpp-prep-1.0/output/numPyramid'
+relocations:     []
+...
